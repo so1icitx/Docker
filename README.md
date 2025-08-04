@@ -38,7 +38,7 @@ The course is divided into nine modules, each in its own directory with a `READM
 ## Getting Started
 1. **Clone the Repository** (optional):
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/so1icitx/Docker.git>
    cd Docker
    ```
 2. **Install Docker**: Follow the `02_Installation_and_Setup/README.md` for platform-specific instructions.
